@@ -16,7 +16,7 @@ let city = [];
 const citiesApi = 'DB/cities.json',
 proxy = 'https://cors-anywhere.herokuapp.com/'
 API_KEY = 'f58db6e4b28f46af8689cf3b7c2d6459',
-calendar = 'http://min-prices.aviasales.ru/calendar_preload';
+calendar = 'https://min-prices.aviasales.ru/calendar_preload';
 
 
 
